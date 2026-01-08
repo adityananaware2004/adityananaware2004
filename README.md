@@ -21,7 +21,7 @@ and bugs into “features” 😅.
 
 <p align="left">
 From building <b>full-stack web applications</b> to solving <b>DSA problems</b>, I enjoy converting ideas into
-<b>scalable, real-world solutions</b>. I’ve solved <b>100+ LeetCode problems</b> and love clean logic and clean UI.
+<b>scalable, real-world solutions</b>. I’ve solved <b>200+ LeetCode problems</b> and love clean logic and clean UI.
 </p>
 
 <p align="left">
